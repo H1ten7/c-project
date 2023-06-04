@@ -682,4 +682,4 @@ void main()
      system("cls"); 
      student();
     }
-    
+    // this is my 1st project and there might be a lot of bugs that I might have missed 
